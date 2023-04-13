@@ -1,0 +1,36 @@
+/* style.css */
+
+body {
+    background-image: linear-gradient(to left, #553c9a, #b393d3);
+}
+
+p {
+    font-family: Helvetica, "DejaVu Sans", sans-serif;
+}
+
+h1 {
+    font-weight: 700;
+    text-align: center;
+    font-size: 48px;
+}
+
+h2 {
+    font-weight: 700;
+    font-size: 28px;
+}
+
+h3 {
+    font-size: 18px;
+
+}
+
+.proportioned {
+    width: 600px;
+    height:auto;
+}
+
+a.main {
+    font-size: 18px;
+    font-weight:600;
+    color:rgb(29, 31, 31)
+}
